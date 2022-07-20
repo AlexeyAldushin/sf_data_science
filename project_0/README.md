@@ -1,8 +1,8 @@
 # Project 0. "Guess the number" game
 ## Content
-[1. Project description]
+[1. Project description](https://github.com/AlexeyAldushin/sf_data_science/tree/main/project_0#project-description)
 
-[2. What case are we solving?]
+[2. What case are we solving?](https://github.com/AlexeyAldushin/sf_data_science/tree/main/project_0#what-case-are-we-solving)
 
 ### Project description
 Угадать загаданное компьютером число за минимальное количество попыток.
